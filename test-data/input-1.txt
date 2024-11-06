@@ -1,0 +1,5 @@
+GT4500,2,0,1,0 #Inicializálás
+TORPEDO,SINGLE #Single teszt jó
+TORPEDO,ALL #All teszt jó
+TORPEDO,SINGLE #Nincs már se egy
+TORPEDO,ALL #se több torpedo
