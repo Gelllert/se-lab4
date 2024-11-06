@@ -1,0 +1,3 @@
+GT4500,10,2,10,1
+TORPEDO,SINGLE #fail mert 1 a hiba ráta
+TORPEDO,ALL #fail mert 1 a hiba ráta
